@@ -1,0 +1,24 @@
+div {
+    width: 150px;
+    height: 150px;
+    background-color: black;
+}
+body {
+    background-color: #f5f5dd;
+}
+
+#atrybut1 {
+   background-color: rgba(0, 0, 0, 1);
+}
+
+#atrybut2 {
+   background-color: rgba(0, 0, 0, 0.6);
+}
+
+#atrybut3 {
+    background-color: rgba(0, 0, 0, 0.4)
+}
+
+#atrybut4 {
+    background-color: rgba(0, 0, 0, 0.2);
+}
